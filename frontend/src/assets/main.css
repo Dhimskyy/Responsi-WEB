@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Style untuk animasi scroll yang akan kita pakai nanti */
+.before-enter {
+opacity: 0;
+transform: translateY(100px);
+transition: all 1s ease-out;
+}
+.enter {
+opacity: 1;
+transform: translateY(0px);
+}
+
+@keyframes spin-sinar {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.animate-spin-sinar {
+  animation: spin-sinar 2.5s linear infinite;
+  opacity: 1;
+}
+
+/* Efek sinar lebih jelas */
+.hero-sinar {
+  background: conic-gradient(
+    from 0deg,
+    #ffe066 0deg 60deg,
+    #fff0 60deg 180deg,
+    #4fd1c5 180deg 240deg,
+    #fff0 240deg 360deg
+  );
+  filter: blur(2px) brightness(1.2);
+  opacity: 0.7;
+}
