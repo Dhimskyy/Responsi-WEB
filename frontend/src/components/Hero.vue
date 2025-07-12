@@ -12,13 +12,13 @@
   <div class="md:w-1/2 mb-10 md:mb-0 relative z-10">
     <div class="inline-flex items-center mb-4 px-4 py-2 bg-white/80 rounded-full shadow-lg border border-blue-200 gap-2 animate-fade-in">
       <svg class="w-6 h-6 text-blue-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
-      <span class="font-semibold text-blue-700">Dhimas</span>
+      <span class="font-semibold text-blue-700">Dhimas Apryza Haryadi</span>
     </div>
     <h1 class="text-5xl font-bold text-gray-800 mb-4 animate-slide-in-left drop-shadow-lg" style="animation-delay:200ms;">
-      Halo, Saya <span class="text-blue-600">Dhimas</span>
+      Halo, Saya <span class="text-blue-600">Dhimas Apryza Haryadi</span>
     </h1>
     <p class="text-xl text-gray-600 mb-8 animate-slide-in-left" style="animation-delay: 400ms;">
-      Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan desain antarmuka dan antarpunggung.
+      Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan info lawan sepadan.
     </p>
     <div class="flex space-x-4 mb-8 animate-slide-in-left" style="animation-delay: 500ms;">
       <a href="#" target="_blank" class="text-blue-600 hover:text-blue-800 transition-transform transform hover:-translate-y-1 text-3xl" aria-label="GitHub">
